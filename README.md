@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Tadeo  
 
-<!--
-**Tadeeeo/Tadeeeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+⚙️ Aspiring Fullstack Developer  
+🚀 Focused on building real-world skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+🎓 Computer Engineering student passionate about technology  
+💡 Currently learning C, Java, and Python  
+🚀 Actively looking for opportunities to gain experience  
+📈 Constantly improving and learning new tools  
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- Fullstack Development  
+- Data Structures & Algorithms  
+- Clean Code & Best Practices  
+
+---
+
+## 🚀 Projects
+🔹 Coming soon... (actively working on them)
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tadeeeo&show_icons=true&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🎯 Goals
+- Build solid real-world projects  
+- Gain experience in software development  
+- Become a professional fullstack developer  
+
+---
+
+## 📫 Contact
+- 📧 Email: tadeoor38@gmail.com  
+- 💼 LinkedIn: (add soon)
+
+---
+
+⭐ From Tadeeeo
